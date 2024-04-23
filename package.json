@@ -1,0 +1,20 @@
+{
+  "name": "labeye",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@gitbeaker/rest": "^40.0.3",
+    "better-sqlite3": "^9.5.0",
+    "colors": "^1.4.0",
+    "cron": "^3.1.7",
+    "table": "^6.8.2",
+    "telegraf": "^4.16.3"
+  }
+}
